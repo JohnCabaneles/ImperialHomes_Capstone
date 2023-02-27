@@ -38,18 +38,18 @@
         class="z-10 hidden  rounded-lg w-44 bg-sidebar">
         <ul class="py-2 text-md text-white" aria-labelledby="dropdownHoverButton">
             <li>
-                <a href="/dashboard/table/sale" class="block px-4 py-2 hover:bg-gray-100 rounded hover:bg-gray-600">For
+                <a href="/dashboard/table/sale" class="block px-4 py-2 hover:bg-gray-100 rounded hover:bg-yellow-400">For
                     Sale</a>
             </li>
             <li>
-                <a href="/dashboard/table/rent" class="block px-4 py-2 hover:bg-gray-100 rounded hover:bg-gray-600">For
+                <a href="/dashboard/table/rent" class="block px-4 py-2 hover:bg-gray-100 rounded hover:bg-yellow-400">For
                     rent</a>
             </li>
             <li>
-                <a href="/dashboard/table/rented" class="block px-4 py-2 hover:bg-gray-100 rounded hover:bg-gray-600">Rented</a>
+                <a href="/dashboard/table/rented" class="block px-4 py-2 hover:bg-gray-100 rounded hover:bg-yellow-400">Rented</a>
             </li>
             <li>
-                <a href="/dashboard/table/sold" class="block px-4 py-2 hover:bg-gray-100 rounded hover:bg-gray-600">Sold</a>
+                <a href="/dashboard/table/sold" class="block px-4 py-2 hover:bg-gray-100 rounded hover:bg-yellow-400">Sold</a>
             </li>
 
         </ul>
