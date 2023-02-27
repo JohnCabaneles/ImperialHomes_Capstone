@@ -93,15 +93,28 @@ class ListingController extends Controller
     }
     
     //Delete Listing
-    public function destroy(Listing $listing) {
-        //Make sure logged in user is owner
-        if($listing->user_id !=auth()->id()) {
+    // public function destroy(Listing $listing) {
+    //     //Make sure logged in user is owner
+    //     if($listing->user_id !=auth()->id()) {
+    //         abort(403, 'Unauthorized Action');
+    //     }
+
+    //     $listing->delete();
+    //     return redirect('/listings/manage')->with('message', 'Listing deleted successfully!');        
+    // }
+
+    public function destroy($id) {
+        $listing = Listing::findOrFail($id);
+    
+        // Make sure logged in user is owner
+        if ($listing->user_id != auth()->id()) {
             abort(403, 'Unauthorized Action');
         }
-
+    
         $listing->delete();
-        return redirect('/listings/manage')->with('message', 'Listing deleted successfully!');        
+        return redirect('/listings/manage')->with('message', 'Listing deleted successfully!');
     }
+    
 
     //manage Listings
     public function manage() {
