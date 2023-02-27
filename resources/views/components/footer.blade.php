@@ -8,15 +8,15 @@
     </div>
 
     <div class="flex flex-row justify-self-center">
-      <a href="#!"
+      <a href="https://www.facebook.com/profile.php?id=100090780216524" target="_blank"
         class="icon mr-6 text-amber-500 px-2 py-2 ease-in-out hover:scale-150 duration-300 hover:text-amber-500">
         <i class="fa-brands fa-facebook-f fa-2x"></i>
       </a>
-      <a href="#!"
+      <a href="https://twitter.com/Imperial_Homes1"
         class="icon mr-6 text-amber-500 px-2 py-2 ease-in-out hover:scale-150 duration-300 hover:text-amber-500">
         <i class="fa-brands fa-twitter fa-2x"></i>
       </a>
-      <a href="#!"
+      <a href="#https://www.instagram.com/impeialhomes/"
         class="icon mr-6 text-amber-500 px-2 py-2 ease-in-out hover:scale-150 duration-300 hover:text-amber-500">
         <i class="fa-brands fa-instagram fa-2x"></i>
       </a>
@@ -24,7 +24,7 @@
 
   </div>
 
-  <div class="mx-6 py-10 text-center md:text-left">
+  <div class="mx-6 py-10 text-center md:text-left mx-auto flex justify-center items-center">
     <div class="grid grid-1 md:grid-cols-2 lg:grid-cols-5 gap-20">
 
       <div class="grid justify-items-stretch col-span-1 lg:col-span-2">
@@ -64,10 +64,10 @@
         <div id="Terms&Conditions" data-modal-backdrop="static" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-50 hidden w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-modal md:h-full">
             <div class="relative w-full h-full max-w-2xl md:h-auto">
              
-                <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
+                <div class="relative bg-white rounded-lg shadow">
                    
                     <div class="flex items-start justify-between p-4 border-b rounded-t dark:border-gray-600">
-                        <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
+                        <h3 class="text-xl font-semibold text-gray-900">
                             Terms & Conditions
                         </h3>
                     </div>
@@ -112,10 +112,10 @@ It's important to read and understand the T&C before using a real estate busines
         <div id="UsersGuide" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-50 hidden w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-modal md:h-full">
             <div class="relative w-full h-full max-w-2xl md:h-auto">
                 
-                <div class="relative bg-white rounded-lg shadow dark:bg-gray-700">
+                <div class="relative bg-white rounded-lg shadow ">
                     
                     <div class="flex items-start justify-between p-4 border-b rounded-t dark:border-gray-600">
-                        <h3 class="text-xl font-semibold text-gray-900 dark:text-white">
+                        <h3 class="link2 text-xl font-semibold text-gray-900 ">
                             User`s Guide
                         </h3>
                         <button type="button" class="text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm p-1.5 ml-auto inline-flex items-center dark:hover:bg-gray-600 dark:hover:text-white" data-modal-hide="UsersGuide">
@@ -180,8 +180,7 @@ Overall, a user's guide on a real estate business website aims to provide users 
   </div>
 
   <div class="text-center p-6 bg-gradient-to-t from-cyan-800 to-cyan-500">
-    <span class="text-white">© </span>
-    <span>2023 Copyright. </span>
+    <span class="text-white">© 2023 Copyright.</span>
     <a class="text-white font-semibold" href="#"><span class="text-amber-500">IMPERIAL</span>HOMES</a>
   </div>
 </footer>
