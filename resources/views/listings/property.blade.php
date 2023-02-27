@@ -6,7 +6,7 @@
   style="
     background-position: 50%;
     background-image: url('/images/pedro-lastra-Nyvq2juw4_o-unsplash.jpg');
-    height: 550px;
+    height: 750px;
   "
 >
   <div

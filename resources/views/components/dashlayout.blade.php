@@ -6,6 +6,7 @@
     <title>Dashboard</title>
     <meta name="author" content="" />
     <meta name="description" content="" />
+    <link rel="icon" href="{{ asset("images/logo.png") }}">
     <script src="https://kit.fontawesome.com/62d4d8e42a.js" crossorigin="anonymous"></script>
 
     <link
