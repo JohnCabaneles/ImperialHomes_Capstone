@@ -13,7 +13,7 @@
             <div
               class="relative overflow-hidden bg-no-repeat bg-cover shadow-lg rounded-lg mx-4 -mt-4"
               data-mdb-ripple="true" data-mdb-ripple-color="light">
-              <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/024.webp" class="w-full" />
+              <img src="https://static-ph.lamudi.com/static/media/d2F0ZXJtYXJrL2xhbXVkaTpib3R0b20tbGVmdDowLjE%3D/2x2x5x1280x500/c76cded9be93fa.webp" class="w-full" />
               <a href="#!">
                 <div
                   class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -22,13 +22,12 @@
             </div>
           </div>
           <div class="p-6">
-            <h5 class="font-bold text-lg mb-3 text-amber-500">Townhouse for Sale at Lancaster Kawit</h5>
+            <h5 class="font-bold text-lg mb-3 text-amber-500">UNA APARTMENTS AT SEVINA PARK</h5>
             <p class="text-gray-500 mb-4">
               <small>Description</small>
             </p>
             <p class="mb-4 pb-2">
-              If you are single or have a new family, you might want to check out our Alice 2-storey townhouse model. Our Alice comes with 3 bedrooms and 1 toilet & bath so that you and your family may enjoy a practical yet comfortable home with the right number of bedrooms. It also has a provision for a one-car garage.
-            </p>
+             ARTHALAND’s newest masterpiece in Biñan, Laguna will offer a living experience that is ONE STEP ABOVE with its host of sustainable and wellness features, exceptional quality and superior design. It is on track to be the first multi-certified mid-market residential development in the country. </p>
             
           </div>
         </div>
@@ -41,7 +40,7 @@
             <div
               class="relative overflow-hidden bg-no-repeat bg-cover shadow-lg rounded-lg mx-4 -mt-4"
               data-mdb-ripple="true" data-mdb-ripple-color="light">
-              <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/031.webp" class="w-full" />
+              <img src="https://static-ph.lamudi.com/static/media/d2F0ZXJtYXJrL2xhbXVkaTpib3R0b20tbGVmdDowLjE%3D/2x2x5x1280x500/249cd567bd75c5.webp" class="w-full" />
               <a href="#!">
                 <div
                   class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -68,7 +67,7 @@
             <div
               class="relative overflow-hidden bg-no-repeat bg-cover shadow-lg rounded-lg mx-4 -mt-4"
               data-mdb-ripple="true" data-mdb-ripple-color="light">
-              <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/081.webp" class="w-full" />
+              <img src="https://static-ph.lamudi.com/static/media/bm9uZS9ub25l/2x2x5x880x450/15ae636b35d92b.webp" class="w-full" />
               <a href="#!">
                 <div
                   class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
