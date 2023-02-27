@@ -2,7 +2,7 @@
 <div class="container my-24 px-6 mx-auto">
 
   <!-- Section: Design Block -->
-  <section class="mb-32 text-gray-800 text-center">
+  <section class="mb-32 text-gray-800 text-left">
 
     <h2 class="title text-4xl font-bold mb-12 pb-4 text-center text-white"><span class="text-amber-500">Featured</span> Properties</h2>
 
@@ -24,8 +24,7 @@
           <div class="p-6">
             <h5 class="font-bold text-lg mb-3 text-amber-500">My paradise</h5>
             <p class="text-gray-500 mb-4">
-              <small>Published <u>13.01.2022</u> by
-                <a href="" class="text-gray-900">Anna Maria Doe</a></small>
+              <small>Description</small>
             </p>
             <p class="mb-4 pb-2">
               well-designed, lush, and abundant with plants, flowers, and other natural elements that create a peaceful and serene environment.
@@ -53,8 +52,7 @@
           <div class="p-6">
             <h5 class="font-bold text-lg mb-3 text-amber-500">Travel to Italy</h5>
             <p class="text-gray-500 mb-4">
-              <small>Published <u>12.01.2022</u> by
-                <a href="" class="text-gray-900">Halley Frank</a></small>
+              <small>Description</small>
             </p>
             <p class="mb-4 pb-2">
               Travel to Italy can be a wonderful experience, offering beautiful scenery, rich history, delicious food, and a vibrant culture. Here are some tips to help you plan your trip to Italy:
@@ -82,8 +80,7 @@
           <div class="p-6">
             <h5 class="font-bold text-lg mb-3 text-amber-500">Chasing the sun</h5>
             <p class="text-gray-500 mb-4">
-              <small>Published <u>10.01.2022</u> by
-                <a href="" class="text-gray-900">Joe Svan</a></small>
+              <small>Description</small>
             </p>
             <p class="mb-4 pb-2">
               Chasing the sun is a phrase often used to describe the act of seeking out warmer climates, usually during the winter months. Many people who live in colder regions of the world may travel to sunnier destinations to escape the cold and enjoy some warmth and sunshine.
