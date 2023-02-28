@@ -13,7 +13,7 @@
             <div
               class="relative overflow-hidden bg-no-repeat bg-cover shadow-lg rounded-lg mx-4 -mt-4"
               data-mdb-ripple="true" data-mdb-ripple-color="light">
-              <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/024.webp" class="w-full" />
+              <img src="https://static-ph.lamudi.com/static/media/d2F0ZXJtYXJrL2xhbXVkaTpib3R0b20tbGVmdDowLjE%3D/2x2x5x1280x500/c76cded9be93fa.webp" class="w-full" />
               <a href="#!">
                 <div
                   class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -22,13 +22,12 @@
             </div>
           </div>
           <div class="p-6">
-            <h5 class="font-bold text-lg mb-3 text-amber-500">My paradise</h5>
+            <h5 class="font-bold text-lg mb-3 text-amber-500">UNA APARTMENTS AT SEVINA PARK</h5>
             <p class="text-gray-500 mb-4">
               <small>Description</small>
             </p>
             <p class="mb-4 pb-2">
-              well-designed, lush, and abundant with plants, flowers, and other natural elements that create a peaceful and serene environment.
-            </p>
+             ARTHALAND’s newest masterpiece in Biñan, Laguna will offer a living experience that is ONE STEP ABOVE with its host of sustainable and wellness features, exceptional quality and superior design. It is on track to be the first multi-certified mid-market residential development in the country. </p>
             
           </div>
         </div>
@@ -41,7 +40,7 @@
             <div
               class="relative overflow-hidden bg-no-repeat bg-cover shadow-lg rounded-lg mx-4 -mt-4"
               data-mdb-ripple="true" data-mdb-ripple-color="light">
-              <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/031.webp" class="w-full" />
+              <img src="https://static-ph.lamudi.com/static/media/d2F0ZXJtYXJrL2xhbXVkaTpib3R0b20tbGVmdDowLjE%3D/2x2x5x1280x500/249cd567bd75c5.webp" class="w-full" />
               <a href="#!">
                 <div
                   class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -50,13 +49,12 @@
             </div>
           </div>
           <div class="p-6">
-            <h5 class="font-bold text-lg mb-3 text-amber-500">Travel to Italy</h5>
+            <h5 class="font-bold text-lg mb-3 text-amber-500">AVIDA TOWERS SUCAT</h5>
             <p class="text-gray-500 mb-4">
               <small>Description</small>
             </p>
             <p class="mb-4 pb-2">
-              Travel to Italy can be a wonderful experience, offering beautiful scenery, rich history, delicious food, and a vibrant culture. Here are some tips to help you plan your trip to Italy:
-            </p>
+              Avida Towers Sucat is a ready community that provides a peaceful suburban environment near the vibrant metropolis. Strategically located close to commercial and business areas, major thoroughfares (C5 Ext., SLEX, and Coastal Road), and the airport. Sensible amenities that suit the needs and lifestyle of its residents. And provides a secure and organized community living</p>
             
           </div>
         </div>
@@ -69,7 +67,7 @@
             <div
               class="relative overflow-hidden bg-no-repeat bg-cover shadow-lg rounded-lg mx-4 -mt-4"
               data-mdb-ripple="true" data-mdb-ripple-color="light">
-              <img src="https://mdbcdn.b-cdn.net/img/new/standard/city/081.webp" class="w-full" />
+              <img src="https://static-ph.lamudi.com/static/media/bm9uZS9ub25l/2x2x5x880x450/15ae636b35d92b.webp" class="w-full" />
               <a href="#!">
                 <div
                   class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -78,15 +76,17 @@
             </div>
           </div>
           <div class="p-6">
-            <h5 class="font-bold text-lg mb-3 text-amber-500">Chasing the sun</h5>
+            <h5 class="font-bold text-lg mb-3 text-amber-500">4BR House and Lot for Sale at Ashana Coast Residences in Liloan, Cebu | Pearl - Regular Unit</h5>
             <p class="text-gray-500 mb-4">
               <small>Description</small>
             </p>
             <p class="mb-4 pb-2">
-              Chasing the sun is a phrase often used to describe the act of seeking out warmer climates, usually during the winter months. Many people who live in colder regions of the world may travel to sunnier destinations to escape the cold and enjoy some warmth and sunshine.
+              Imagine smart-ready homes within a self-sustainable community secured by CCTV and featuring wide main and secondary roads. Ashana encapsulates the values of excellence and quality standards of our parent company, premier developer Contempo Property Holdings, Inc.
 
-Some popular destinations for chasing the sun include tropical locations like Hawaii, the Caribbean, and Southeast Asia. These destinations offer warm weather year-round and are popular among those looking to escape the winter chill.
-            </p>
+Ashana houses will be attuned to a better normal, with spaces for a home office, isolation room, and outdoor areas for safely receiving guests.
+
+Ashana homes will utilize cast-in-place technology to better withstand natural disasters and adopt green living design standards, with provisions for expanded ventilation, more natural lighting, water catchment, and a solar-ready roof.
+</p>
             
           </div>
         </div>
