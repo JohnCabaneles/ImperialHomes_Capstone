@@ -4,11 +4,9 @@
  style="background-image:url('./images/hero-bg.jpg')"> 
  <div class="bg-black/50 w-full h-350 pt-10">
   <div class="text-center md:max-w-xl lg:max-w-3xl mx-auto">
-    <h3 class="title text-4xl font-bold mb-6 text-amber-500">Testimonials</h3>
+    <h3 class="title text-4xl font-bold mb-6 text-amber-500">What Our Clients Thinks</h3>
     <p class="title2 mb-6 pb-2 md:mb-12 md:pb-0 text-white">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error
-      amet numquam iure provident voluptate esse quasi, veritatis totam
-      voluptas nostrum quisquam eum porro a pariatur veniam.
+      "This section is where you can read what our clients have to say about their experiences working with us. We believe that the best way to understand the value of our real estate services is to hear from the people who have benefited from them."
     </p>
   </div>
 
